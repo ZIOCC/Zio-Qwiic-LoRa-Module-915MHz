@@ -3,7 +3,7 @@ We referred sparkfun's gateway firmware, check SparkFun QwiicRF Library master [
 
 > This module is available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-Lora-Module-915MHz).
 
-![Zio Qwiic Lora Module 915](/lora-915.jpg)
+![Zio Qwiic Lora Module 915](/lora915.jpg)
 
 ###### Description
 
